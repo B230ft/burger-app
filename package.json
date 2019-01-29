@@ -1,31 +1,31 @@
 {
   "name": "eat-da-burger",
   "version": "1.0.0",
-  "description": "Buger eating application with Node.js, Express, Handlebars, and MySQL.",
+  "description": "Burger eating application with Node.js, Express, Handlebars, and MySQL.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angrbrd/eat-da-burger.git"
+    "url": "git+https://github.com/B230FT/burger-app.git"
   },
   "keywords": [
     "burgers",
     "eating",
     "burgerfi"
   ],
-  "author": "Anna D Derbakova",
+  "author": "Igor Niyazov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angrbrd/eat-da-burger/issues"
+    "url": "https://github.com/B230FT"
   },
-  "homepage": "https://github.com/angrbrd/eat-da-burger#readme",
+  "homepage": "https://github.com/B230FT/burger-app",
   "dependencies": {
-    "body-parser": "^1.17.1",
-    "express": "^4.15.2",
-    "express-handlebars": "^3.0.0",
-    "method-override": "^2.3.7",
-    "mysql": "^2.13.0"
+    "body-parser": "1.17.1",
+    "express": "4.15.2",
+    "express-handlebars": "3.0.0",
+    "method-override": "2.3.7",
+    "mysql": "2.13.0"
   }
 }
