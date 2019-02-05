@@ -6,3 +6,14 @@ In this assignment, you'll create a burger logger with MySQL, Node, Express, Han
 Read This
 
 When trying to connect remotely to your Heroku database on an open network such as a coffee shop, library, or even your University WiFi, it will be blocked. If you are experiencing a Heroku connection error, this could be why.
+
+
+![Screenshot](front.png)
+
+
+![Screenshot](bottom.png)
+
+
+![Screenshot](added to list.png)
+
+![Screenshot](added new.png)
