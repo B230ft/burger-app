@@ -8,12 +8,14 @@ Read This
 When trying to connect remotely to your Heroku database on an open network such as a coffee shop, library, or even your University WiFi, it will be blocked. If you are experiencing a Heroku connection error, this could be why.
 
 
-![Screenshot](front.png)
+![alt text](https://raw.githubusercontent.com/b230ft/burger/master/front.JPG
 
 
-![Screenshot](bottom.png)
+![alt text](https://raw.githubusercontent.com/b230ft/burger/master/bottom.JPG
 
 
-![Screenshot](added to list.png)
+![alt text](https://raw.githubusercontent.com/b230ft/burger/master/list.JPG
 
-![Screenshot](added new.png)
+
+
+![alt text](https://raw.githubusercontent.com/b230ft/burger/master/new.JPG
