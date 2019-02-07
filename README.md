@@ -11,11 +11,11 @@ When trying to connect remotely to your Heroku database on an open network such 
 ![Screenshot](https://raw.githubusercontent.com/B230ft/burger-app/master/front.PNG)
 
 
-![alt text](https://raw.githubusercontent.com/B230ft/burger-app/master/bottom.PNG)
+![Screenshot](https://raw.githubusercontent.com/B230ft/burger-app/master/bottom.PNG)
 
 
-![alt text](https://raw.githubusercontent.com/B230ft/burger-app/master/list.PNG)
+![Screenshot](https://raw.githubusercontent.com/B230ft/burger-app/master/list.PNG)
 
 
 
-![alt text](https://raw.githubusercontent.com/B230ft/burger-app/master/new.PNG)
+![Screenshot](https://raw.githubusercontent.com/B230ft/burger-app/master/new.PNG)
